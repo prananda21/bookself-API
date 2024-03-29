@@ -1,4 +1,4 @@
-const {NoteController} = require('../controller/noteController');
+const {NoteController} = require('../controller/bookController');
 
 const router = [
   {
